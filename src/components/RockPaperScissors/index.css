@@ -1,0 +1,52 @@
+.choice-list-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: -40px;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 100px;
+}
+.choice-con {
+  width: 50%;
+}
+.choice-img {
+  width: 150px;
+}
+.choice-button {
+  background-color: transparent;
+  border: none;
+}
+.rules-button {
+  align-self: flex-end;
+  margin: 30px;
+  padding: 6px 10px;
+  border-radius: 5px;
+}
+.popup-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.popup-img {
+  width: 80%;
+}
+.popup-close-btn {
+  align-self: flex-end;
+}
+.result-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.result-view-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}

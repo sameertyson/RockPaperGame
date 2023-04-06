@@ -1,0 +1,22 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  width: 80%;
+  color: #fff;
+  font-weight: 700;
+  padding: 20px;
+}
+.score-cont {
+  text-align: center;
+  background-color: #fff;
+  color: #223a5f;
+  padding: 1px 30px;
+  border-radius: 10px;
+  font-weight: 700;
+}
+.score {
+  font-family: 'bree sherif';
+}
